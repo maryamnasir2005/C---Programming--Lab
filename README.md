@@ -1,3 +1,2 @@
-# A first-level heading
-## A second-level heading
-### A third-level heading
+# c Programming lab
+This is my first repository and i m doing my lab assignment.
